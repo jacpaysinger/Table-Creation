@@ -1,4 +1,4 @@
-# Creating a Table for HHD Configuration Records
+# Creating a Table for Configuration Records
 
 ## Overview
 This repository demonstrates how a custom configuration table was created in ServiceNow to track Holographic Handheld Devices (HHDs). The lab focuses on extending the CMDB hardware model, adding a custom firmware field, configuring list and form layouts, and updating the application menu to support device management.
